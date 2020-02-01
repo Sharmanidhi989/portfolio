@@ -4,4 +4,5 @@
 * PostgreSQL:    1.2.2
 * Node:          12.14.1
 * Webpacker:     4.0
+* Bootstrap:     4.0.0
 </pre>
